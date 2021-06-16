@@ -9,7 +9,7 @@
  
 I'm currently a high school student and it is my goal in life to become a great programmer and I strive to improve myself and learn more.
 
-I'm a huge nerd when it comes to computers and tech stuff, I want to learn more about using Linux and ethical hacking, I listen to all kinds of music and I love to talk to new people and making new friends so feel free to contact me at my discord @Carthy#5183
+I'm a huge nerd when it comes to computers and tech stuff, I want to learn more about using Linux and ethical hacking, I listen to all kinds of music and I love to talk to new people and making new friends so feel free to contact me at my discord @Carthy#0001
 
 Right now, I'm a complete newbie to programming and I've only recently started building my website and I hope to have it up sometime soon!
 
