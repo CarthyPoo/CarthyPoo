@@ -15,7 +15,7 @@ Right now, I'm a complete newbie to programming and I've only recently started b
   
 I'm currently trying my best to complete a online course called CS50!
 
-My goal is to learn and improve in HTML, CSS, Python, C++ and C# by the end of my highschool career!
+My goal is to learn and improve in HTML, CSS, Javascript, Python, C++ and C# by the end of my highschool career!
 
 ##
 
