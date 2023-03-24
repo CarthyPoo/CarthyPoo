@@ -21,7 +21,10 @@ My goal is to learn and improve in HTML, CSS, Javascript, Python, C++ and C# by 
 
 Thanks for stopping by and taking the time to read, I appreciate it a lot!
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/295356028332277760?imgStyle=square&imgBorderRadius=10px)](https://discord.com/users/295356028332277760)  
+<div align='center'>
+  <a href='https://discord.com/users/295356028332277760">
+           <img src="https://lanyard.kyrie25.me/api/295356028332277760?imgStyle=square&imgBorderRadius=10px"
+           </a>
 
 <!---
 CarthyPoo/CarthyPoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
