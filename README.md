@@ -4,6 +4,8 @@
   <img src="https://i.pinimg.com/originals/51/b7/39/51b739645dc3a082a873b7150240b6ac.gif" alt="animated" />
 </p>
 
+[![Discord Presence](https://lanyard.kyrie25.me/api/295356028332277760?imgStyle=square&imgBorderRadius=10px)](https://discord.com/users/295356028332277760)
+
 <p align=center> My name is Lawrence but most people online call me Carthy! 
 
  
