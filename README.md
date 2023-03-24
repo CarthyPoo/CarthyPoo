@@ -4,7 +4,6 @@
   <img src="https://i.pinimg.com/originals/51/b7/39/51b739645dc3a082a873b7150240b6ac.gif" alt="animated" />
 </p>
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/295356028332277760?imgStyle=square&imgBorderRadius=10px)](https://discord.com/users/295356028332277760)
 
 
 <p align=center> My name is Lawrence but most people online call me Carthy! 
@@ -21,6 +20,8 @@ My goal is to learn and improve in HTML, CSS, Javascript, Python, C++ and C# by 
 ##
 
 Thanks for stopping by and taking the time to read, I appreciate it a lot!
+
+[![Discord Presence](https://lanyard.kyrie25.me/api/295356028332277760?imgStyle=square&imgBorderRadius=10px)](https://discord.com/users/295356028332277760)  
 
 <!---
 CarthyPoo/CarthyPoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
