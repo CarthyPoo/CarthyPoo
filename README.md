@@ -3,6 +3,7 @@
 <div align="center">
   <a href="https://discord.com/users/295356028332277760" >
     <img src="https://lanyard.kyrie25.me/api/295356028332277760?imgStyle=square&imgBorderRadius=10px" />
+      </a>
 
 
 
