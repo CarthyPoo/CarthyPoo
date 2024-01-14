@@ -1,8 +1,8 @@
 ## <p align=center>✨Welcome to my GitHub Page!✨
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/51/b7/39/51b739645dc3a082a873b7150240b6ac.gif" alt="animated" />
-</p>
+<div align="center">
+  <a href="https://discord.com/users/295356028332277760" >
+    <img src="https://lanyard.kyrie25.me/api/295356028332277760?imgStyle=square&imgBorderRadius=10px" />
 
 
 
@@ -22,8 +22,5 @@ Thanks for stopping by and taking the time to read, I appreciate it a lot!
 <div align="center">
   <a href="https://www.firstinspires.org/">
     <img src='https://solidedge.siemens.com/wp-content/uploads/2019/11/FIRST_Horz_RGB.jpg' />
-<div align="center">
-  <a href="https://discord.com/users/295356028332277760" >
-    <img src="https://lanyard.kyrie25.me/api/295356028332277760?imgStyle=square&imgBorderRadius=10px" />
   </a>
 
