@@ -20,8 +20,4 @@ Right now, I'm a FIRST Technical Advisor Assistant for the FIRST Robotics Compet
 
 Thanks for stopping by and taking the time to read, I appreciate it a lot!
 
-<div align="center">
-  <a href="https://www.firstinspires.org/">
-    <img src='https://solidedge.siemens.com/wp-content/uploads/2019/11/FIRST_Horz_RGB.jpg' />
-  </a>
 
