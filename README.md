@@ -16,7 +16,13 @@ I am currently in my first year of the [Information Technology Services Program]
 
 I'm a huge nerd when it comes to computers and tech stuff, I want to learn more about using Linux and ethical hacking, I listen to all kinds of music and I love to talk to new people and making new friends so feel free to contact me at my discord @Carthypoo
 
-##
+<details>
+  <summary>Experience & Education</summary>
+  [![Git Badge](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</details>
+
 
 Thanks for stopping by and taking the time to read, I appreciate it a lot!
 
