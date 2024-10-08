@@ -8,7 +8,7 @@ I'm currently a student at the Southern Alberta Institute of Technology and it i
 
 I am currently in my first year of the [Information Technology Services Program]([url](https://www.sait.ca/programs-and-courses/diplomas/information-technology-services))
 
-I'm a huge nerd when it comes to computers and tech stuff, I want to learn more about using Linux and ethical hacking, I listen to all kinds of music and I love to talk to new people and making new friends so feel free to contact me at my discord @Carthypoo
+I'm a huge nerd when it comes to computers and tech stuff, I want to learn more about using Linux and ethical hacking, I listen to all kinds of music and I love to talk to new people and making new friends so feel free to contact me at any of my socials linked below!
 
 ### 👨‍💻 My Tech Stack
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
