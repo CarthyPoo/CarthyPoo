@@ -32,9 +32,4 @@ I'm a huge nerd when it comes to computers and tech stuff, I want to learn more 
 Thanks for stopping by and taking the time to read, I appreciate it a lot!
 
 
-<div align="center">
-  <a href="https://discord.com/users/295356028332277760" >
-    <img src="https://lanyard.kyrie25.me/api/295356028332277760?imgStyle=square&imgBorderRadius=10px" />
-      </a>
-
 
